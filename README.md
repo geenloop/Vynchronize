@@ -14,7 +14,7 @@ Vynchronize currently supports YouTube, Daily Motion, Vimeo, and essentially any
 <a href="https://github.com/kyle8998/Vynchronize/commits/master"> <img src="https://img.shields.io/github/last-commit/kyle8998/Vynchronize.svg?label=last%20deployed" alt="last deployed"></a>
 [![GitHub issues](https://img.shields.io/github/issues/kyle8998/Vynchronize.svg "GitHub issues")](https://github.com/kyle8998/Vynchronize/issues)
 [![GitHub stars](https://img.shields.io/github/stars/kyle8998/Vynchronize.svg "GitHub stars")](https://github.com/kyle8998/Vynchronize/stargazers)
-[![HitCount](http://hits.dwyl.io/kyle8998/Vynchronize.svg)](http://hits.dwyl.io/kyle8998/Vynchronize)
+[![HitCount](http://hits.dwyl.io/geenloop/Vynchronize.svg)](http://hits.dwyl.io/geenloop/Vynchronize)
 
 ---
 
