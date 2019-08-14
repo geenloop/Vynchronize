@@ -9,11 +9,11 @@ Vynchronize currently supports YouTube, Daily Motion, Vimeo, and essentially any
 
 [![forthebadge](https://forthebadge.com/images/badges/60-percent-of-the-time-works-every-time.svg)](http://forthebadge.com)
 
-[![Build Status](https://travis-ci.org/kyle8998/Vynchronize.svg?branch=master)](https://travis-ci.org/kyle8998/Vynchronize)
+[![Build Status](https://travis-ci.org/geenloop/Vynchronize.svg?branch=master)](https://travis-ci.org/geenloop/Vynchronize)
 [![Open Source Love](https://badges.frapsoft.com/os/mit/mit.svg?v=102)](https://github.com/ellerbrock/open-source-badge/)
-<a href="https://github.com/kyle8998/Vynchronize/commits/master"> <img src="https://img.shields.io/github/last-commit/kyle8998/Vynchronize.svg?label=last%20deployed" alt="last deployed"></a>
-[![GitHub issues](https://img.shields.io/github/issues/kyle8998/Vynchronize.svg "GitHub issues")](https://github.com/kyle8998/Vynchronize/issues)
-[![GitHub stars](https://img.shields.io/github/stars/kyle8998/Vynchronize.svg "GitHub stars")](https://github.com/kyle8998/Vynchronize/stargazers)
+<a href="https://github.com/geenloop/Vynchronize/commits/master"> <img src="https://img.shields.io/github/last-commit/geenloop/Vynchronize.svg?label=last%20deployed" alt="last deployed"></a>
+[![GitHub issues](https://img.shields.io/github/issues/geenloop/Vynchronize.svg "GitHub issues")](https://github.com/geenloop/Vynchronize/issues)
+[![GitHub stars](https://img.shields.io/github/stars/geenloop/Vynchronize.svg "GitHub stars")](https://github.com/geenloop/Vynchronize/stargazers)
 [![HitCount](http://hits.dwyl.io/geenloop/Vynchronize.svg)](http://hits.dwyl.io/geenloop/Vynchronize)
 
 ---
