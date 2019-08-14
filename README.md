@@ -7,13 +7,13 @@ Vynchronize is a real-time online video synchronization platform. You can enjoy 
 
 Vynchronize currently supports YouTube, Daily Motion, Vimeo, and essentially any .mp4/.webm on the internet with the HTML5 Player!
 
-![GitHub](https://img.shields.io/github/license/geenloop/Vynchronize?style=plastic)
-![GitHub language count](https://img.shields.io/github/languages/count/geenloop/Vynchronize?color=purple&style=plastic)
-![GitHub top language](https://img.shields.io/github/languages/top/geenloop/Vynchronize?color=purple&style=plastic)
-![GitHub repo size](https://img.shields.io/github/repo-size/geenloop/Vynchronize?color=purple&style=plastic)
+[![GitHub](https://img.shields.io/github/license/geenloop/Vynchronize?style=plastic)](https://github.com/geenloop/Vynchronize/)
+[![GitHub language count](https://img.shields.io/github/languages/count/geenloop/Vynchronize?color=purple&style=plastic)](https://github.com/geenloop/Vynchronize/)
+[![GitHub top language](https://img.shields.io/github/languages/top/geenloop/Vynchronize?color=purple&style=plastic)](https://github.com/geenloop/Vynchronize/)
+[![GitHub repo size](https://img.shields.io/github/repo-size/geenloop/Vynchronize?color=purple&style=plastic)](https://github.com/geenloop/Vynchronize/)
 [![Open Source Love](https://badges.frapsoft.com/os/mit/mit.svg?v=102)](https://github.com/ellerbrock/open-source-badge/)
 <a href="https://github.com/geenloop/Vynchronize/commits/master"> <img src="https://img.shields.io/github/last-commit/geenloop/Vynchronize.svg?label=last%20deployed" alt="last deployed"></a>
-![GitHub release](https://img.shields.io/github/release/geenloop/Vynchronize?style=plastic)
+[![GitHub release](https://img.shields.io/github/release/geenloop/Vynchronize?style=plastic)](https://github.com/geenloop/Vynchronize/)
 [![GitHub issues](https://img.shields.io/github/issues/geenloop/Vynchronize.svg "GitHub issues")](https://github.com/geenloop/Vynchronize/issues)
 [![HitCount](http://hits.dwyl.io/geenloop/Vynchronize.svg)](http://hits.dwyl.io/geenloop/Vynchronize)
 
